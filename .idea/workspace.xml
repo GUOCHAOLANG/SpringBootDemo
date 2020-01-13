@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5d44d85-5dca-47e8-9cd9-ab4f1109c31d" name="Default Changelist" comment="初始化创于一个基础的spring boot web">
-      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/src/main/java/com/gcl/example/domebaseweb/DomebasewebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/src/main/java/com/gcl/example/domebaseweb/controller/OneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/com/gcl/example/domebaseweb/DomebasewebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/githubSpringBootDemo.iml" afterDir="false" />
+    <list default="true" id="d5d44d85-5dca-47e8-9cd9-ab4f1109c31d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578902799597</updated>
-      <workItem from="1578902804081" duration="1852000" />
+      <workItem from="1578902804081" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1578903749307</created>
@@ -155,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578904582325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="初始化创于一个基础的spring boot web">
+      <created>1578905189056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578905189056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,10 +175,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="179" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578904855697" />
-    <state x="623" y="138" key="CommitChangelistDialog2" timestamp="1578904865772">
+    <state x="623" y="138" key="CommitChangelistDialog2" timestamp="1578905188173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="138" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578904865772" />
+    <state x="623" y="138" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578905188173" />
     <state x="294" y="229" width="1327" height="510" key="DiffContextDialog" timestamp="1578904940968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,38 +187,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="482" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578904980897" />
-    <state width="1467" height="176" key="GridCell.Tab.0.bottom" timestamp="1578904948879">
+    <state width="1467" height="131" key="GridCell.Tab.0.bottom" timestamp="1578905247932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948879" />
-    <state width="1467" height="176" key="GridCell.Tab.0.center" timestamp="1578904948879">
+    <state width="1467" height="131" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247932" />
+    <state width="1467" height="131" key="GridCell.Tab.0.center" timestamp="1578905247931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948879" />
-    <state width="1467" height="176" key="GridCell.Tab.0.left" timestamp="1578904948879">
+    <state width="1467" height="131" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247931" />
+    <state width="1467" height="131" key="GridCell.Tab.0.left" timestamp="1578905247931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948879" />
-    <state width="1467" height="176" key="GridCell.Tab.0.right" timestamp="1578904948879">
+    <state width="1467" height="131" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247931" />
+    <state width="1467" height="131" key="GridCell.Tab.0.right" timestamp="1578905247931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948879" />
-    <state width="1467" height="176" key="GridCell.Tab.1.bottom" timestamp="1578904948880">
+    <state width="1467" height="131" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247931" />
+    <state width="1467" height="131" key="GridCell.Tab.1.bottom" timestamp="1578905247932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948880" />
-    <state width="1467" height="176" key="GridCell.Tab.1.center" timestamp="1578904948880">
+    <state width="1467" height="131" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247932" />
+    <state width="1467" height="131" key="GridCell.Tab.1.center" timestamp="1578905247932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948880" />
-    <state width="1467" height="176" key="GridCell.Tab.1.left" timestamp="1578904948880">
+    <state width="1467" height="131" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247932" />
+    <state width="1467" height="131" key="GridCell.Tab.1.left" timestamp="1578905247932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948880" />
-    <state width="1467" height="176" key="GridCell.Tab.1.right" timestamp="1578904948880">
+    <state width="1467" height="131" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247932" />
+    <state width="1467" height="131" key="GridCell.Tab.1.right" timestamp="1578905247932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="176" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578904948880" />
+    <state width="1467" height="131" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578905247932" />
     <state x="617" y="197" key="RollbackChangesDialog" timestamp="1578904911470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,10 +227,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="405" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578904669394" />
-    <state x="633" y="277" key="Vcs.Push.Dialog.v2" timestamp="1578904604239">
+    <state x="633" y="277" key="Vcs.Push.Dialog.v2" timestamp="1578905206646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578904604239" />
+    <state x="633" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578905206646" />
     <state x="836" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578904744254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
