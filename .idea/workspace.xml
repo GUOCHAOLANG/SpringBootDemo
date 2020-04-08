@@ -2,13 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5d44d85-5dca-47e8-9cd9-ab4f1109c31d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/gcl/client/eurekaclient/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/com/gcl/example/domebaseweb/LockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/com/gcl/example/domebaseweb/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/com/gcl/example/domebaseweb/TestMain0320.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/com/gcl/example/domebaseweb/TestMain0407.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/leetcode/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/leetcode/FooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/leetcode/FooBarTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/leetcode/FooTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/leetcode/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domebaseweb/src/test/java/leetcode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/domebaseweb">
@@ -68,17 +92,75 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud_learn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
-    <configuration name="DomebasewebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="domebaseweb.main" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gcl.example.domebaseweb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestMain0407">
+    <configuration name="FooBarTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FooBarTestMain" />
+      <module name="domebaseweb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FooTestMain" />
+      <module name="domebaseweb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.TestMain" />
+      <module name="domebaseweb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain0320" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gcl.example.domebaseweb.TestMain0320" />
+      <module name="domebaseweb.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gcl.example.domebaseweb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gcl.example.domebaseweb.DomebasewebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain0407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gcl.example.domebaseweb.TestMain0407" />
+      <module name="domebaseweb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gcl.example.domebaseweb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,9 +179,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TestMain0320" />
+      <item itemvalue="Application.FooTestMain" />
+      <item itemvalue="Application.FooBarTestMain" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Application.TestMain0407" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DomebasewebApplication" />
+        <item itemvalue="Application.TestMain0407" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.FooBarTestMain" />
+        <item itemvalue="Application.FooTestMain" />
+        <item itemvalue="Application.TestMain0320" />
       </list>
     </recent_temporary>
   </component>
@@ -121,12 +216,23 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d5d44d85-5dca-47e8-9cd9-ab4f1109c31d" name="Default Changelist" comment="" />
-      <changelist id="" name="初始化创于一个基础的spring boot web" comment="" />
       <created>1578902799597</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578902799597</updated>
-      <workItem from="1578902804081" duration="8645000" />
+      <workItem from="1578902804081" duration="9676000" />
+      <workItem from="1578965353306" duration="618000" />
+      <workItem from="1579260353009" duration="777000" />
+      <workItem from="1579499025701" duration="4475000" />
+      <workItem from="1582272426219" duration="1430000" />
+      <workItem from="1583552699034" duration="14221000" />
+      <workItem from="1583576524820" duration="370000" />
+      <workItem from="1583991560855" duration="6459000" />
+      <workItem from="1584083280084" duration="2443000" />
+      <workItem from="1584684846098" duration="6804000" />
+      <workItem from="1585296179834" duration="1737000" />
+      <workItem from="1585893410595" duration="12835000" />
+      <workItem from="1586226060437" duration="3767000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1578903749307</created>
@@ -177,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578911511965</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SpringCloud Eureka Client 服务提供者搭建">
+      <created>1578913500596</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578913500597</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,9 +314,18 @@
     <MESSAGE value="初始化创于一个基础的spring boot web" />
     <MESSAGE value="项目目标" />
     <MESSAGE value="SpringCloud Eureka Server 注册中心搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringCloud Eureka Server 注册中心搭建" />
+    <MESSAGE value="SpringCloud Eureka Client 服务提供者搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringCloud Eureka Client 服务提供者搭建" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="368" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583571497863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583571497863" />
+    <state x="785" y="308" key="#com.intellij.ide.util.MemberChooser" timestamp="1584686050854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="308" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584686050854" />
     <state x="852" y="459" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578904042832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,10 +334,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="179" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578904855697" />
-    <state x="623" y="138" key="CommitChangelistDialog2" timestamp="1578911510890">
+    <state x="757" y="457" key="#xdebugger.evaluate" timestamp="1583992532792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="138" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578911510890" />
+    <state x="757" y="457" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1583992532792" />
+    <state x="623" y="138" key="CommitChangelistDialog2" timestamp="1578913499134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="138" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578913499134" />
     <state x="294" y="229" width="1327" height="510" key="DiffContextDialog" timestamp="1578904940968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -224,42 +350,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="482" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578904980897" />
-    <state width="1467" height="191" key="GridCell.Tab.0.bottom" timestamp="1578911427169">
+    <state width="1468" height="294" key="GridCell.Tab.0.bottom" timestamp="1586230055654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427169" />
-    <state width="1467" height="191" key="GridCell.Tab.0.center" timestamp="1578911427167">
+    <state width="1468" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586230055654" />
+    <state width="1468" height="294" key="GridCell.Tab.0.center" timestamp="1586230055654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427167" />
-    <state width="1467" height="191" key="GridCell.Tab.0.left" timestamp="1578911427165">
+    <state width="1468" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586230055654" />
+    <state width="1468" height="294" key="GridCell.Tab.0.left" timestamp="1586230055654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427165" />
-    <state width="1467" height="191" key="GridCell.Tab.0.right" timestamp="1578911427167">
+    <state width="1468" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586230055654" />
+    <state width="1468" height="294" key="GridCell.Tab.0.right" timestamp="1586230055654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427167" />
-    <state width="1467" height="191" key="GridCell.Tab.1.bottom" timestamp="1578911427170">
+    <state width="1468" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586230055654" />
+    <state width="1468" height="294" key="GridCell.Tab.1.bottom" timestamp="1586218707757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427169" />
-    <state width="1467" height="191" key="GridCell.Tab.1.center" timestamp="1578911427169">
+    <state width="1468" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586218707757" />
+    <state width="1468" height="294" key="GridCell.Tab.1.center" timestamp="1586218707756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427169" />
-    <state width="1467" height="191" key="GridCell.Tab.1.left" timestamp="1578911427169">
+    <state width="1468" height="294" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586218707756" />
+    <state width="1468" height="294" key="GridCell.Tab.1.left" timestamp="1586218707756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427169" />
-    <state width="1467" height="191" key="GridCell.Tab.1.right" timestamp="1578911427169">
+    <state width="1468" height="294" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586218707756" />
+    <state width="1468" height="294" key="GridCell.Tab.1.right" timestamp="1586218707756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1467" height="191" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578911427169" />
+    <state width="1468" height="294" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586218707756" />
     <state x="617" y="197" key="RollbackChangesDialog" timestamp="1578904911470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="197" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578904911470" />
+    <state x="456" y="227" key="SettingsEditor" timestamp="1579506189671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579506189671" />
     <state x="804" y="405" key="VCS.ChangelistChooser" timestamp="1578904669394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,13 +398,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="633" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578911522162" />
-    <state x="836" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578913446398">
+    <state x="729" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1578965372705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="836" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578913446398" />
+    <state x="729" y="400" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578965372705" />
+    <state x="836" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586315822391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586315822391" />
     <state x="497" y="344" width="1139" height="570" key="new project wizard" timestamp="1578906792221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="344" width="1139" height="570" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578906792221" />
+    <state x="1044" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1584687116393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1044" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584687116393" />
   </component>
 </project>
